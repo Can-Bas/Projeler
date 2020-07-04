@@ -1,4 +1,3 @@
-#Github Linki :
 #Soru 1
 c = int(input("Gün Giriniz:"))
 a = int(input("Ay Giriniz:"))
